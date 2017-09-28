@@ -1,1 +1,0 @@
-Al ejecutar los metodos de breadth first y depth first, al pasar unos 20 minutos se tilda la maquina virtual, no se si influye el hecho de estar ejecutandolo en una maquina virtual o si hay otra cosa mal pero en ninguno encontramos solucion.
