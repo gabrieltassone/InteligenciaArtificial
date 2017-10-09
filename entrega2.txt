@@ -1,0 +1,5 @@
+1:{'Agnar': '0', 'Amarillo': '0', 'Anillo': '2', 'Arbol': '0', 'Azul': '1', 'Bjarni': '2', 'Blanco': '4', 'Cinturon': '1', 'Cnut': '3', 'Cruz': '3', 'Diarf': '1', 'Dragon': '4', 'Egil': '4', 'Espada': '4', 'Garrote': '3', 'Hacha': '0', 'Lanza': '1', 'Martillo': '2', 'Moneda': '3', 'Pajaros': '2', 'Pendiente': '4', 'Pulsera': '0', 'Rojo': '2', 'Trebol': '1', 'Verde': '3'}
+
+
+2:{'Agnar': '0', 'Amarillo': '1', 'Anillo': '4', 'Arbol': '1', 'Azul': '1', 'Bjarni': '4', 'Blanco': '3', 'Cinturon': '0', 'Cnut': '2', 'Cruz': '0', 'Diarf': '4', 'Dragon': '3', 'Egil': '1', 'Espada': '3', 'Garrote': '2', 'Hacha': '1', 'Lanza': '0', 'Martillo': '4', 'Moneda': '2', 'Pajaros': '2', 'Pendiente': '1', 'Pulsera': '1', 'Rojo': '4', 'Trebol': '4', 'Verde': '0'}
+
